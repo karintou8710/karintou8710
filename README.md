@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm karinto 👋
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karintou8710)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karintou8710&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **karintou8710/karintou8710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
