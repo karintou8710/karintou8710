@@ -1,5 +1,8 @@
 ### Hi, I'm karinto 👋
 
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/karintou8710/posts.svg)](http://qiita.com/karintou8710)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/karintou8710/contributions.svg)](http://qiita.com/karintou8710)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karintou8710)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karintou8710&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
